@@ -1,5 +1,21 @@
-<h1>Orders</h1>
+<div class="container">
+  <!-- Content here -->
+  <h1>Orders</h1>
 
-<div>
+  <div class="row" *ngFor="let order of orders">
+    <div class="card col-12 mb-5">
+      <img src="..." class="card-img-top" alt="..." />
+      <div class="card-body">
+        <h5 class="card-title" *ngFor="let item of order.order_items">
+          {{ item.item.title }}
+        </h5>
+        <p class="card-text">{{ order | json }}</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- <div>
     {{ orders | json }}
+  </div> -->
 </div>

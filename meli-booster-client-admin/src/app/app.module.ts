@@ -7,14 +7,20 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { CommonModule, JsonPipe } from '@angular/common';
 import { HttpClientModule } from '@angular/common/http';
 import { OrdersComponent } from './mercado-livre/orders/orders.component';
+import { BlankComponent } from './layouts/blank/blank.component';
+import { DashBoosterComponent } from './layouts/dash-booster/dash-booster.component';
+import { NavbarComponent } from './layouts/dash-booster/components/navbar/navbar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    OrdersComponent
+    OrdersComponent,
+    BlankComponent,
+    DashBoosterComponent,
+    NavbarComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule.withServerTransition({ appId: 'serverApp' }),
     CommonModule,
     AppRoutingModule,
     NgbModule,

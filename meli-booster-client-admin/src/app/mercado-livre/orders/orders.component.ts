@@ -16,8 +16,9 @@ export class OrdersComponent {
   
   async getOrdersBySellerId() {
     let sellerId = await this.getSellerId();
-    this.service.getOrdersBySellerId(sellerId).subscribe(o => {
-      this.orders = o;
+    let path_params = ['sort=date_desc'];
+    this.service.getOrdersBySellerId(sellerId, path_params).subscribe((data: any) => {
+      this.orders = data.results;
     });
   }
 

@@ -35,16 +35,24 @@ export class AuthComponent {
   }
 
   async getToken(code: string) {
+    console.log('code => ', code);
+    
+    localStorage.setItem('ml-code', code);
+
     this.service.getToken(code).subscribe(a => {
+      console.log('a => ', a);
+      
       localStorage.setItem('ml-token', JSON.stringify(a));
 
-      setTimeout(() => {
-        this.router.navigate(['meli/orders']);
-      }, 1000);
+      console.log(localStorage.getItem('ml-token'));
+
+      this.router.navigate(['meli/orders']);
     });
   }
 
   verifyAuthentication() {
+    console.log(localStorage.getItem('ml-token'));
+
     this.authenticated = localStorage.getItem('ml-token');
     if (this.authenticated) {
       return true;
