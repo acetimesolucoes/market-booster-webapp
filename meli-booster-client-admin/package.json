@@ -1,6 +1,6 @@
 {
   "name": "meli-booster-client-admin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +9,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "dev:ssr": "ng run meli-booster-client-admin:serve-ssr",
-    "serve:ssr": "node dist/meli-booster-client-admin/server/main.js",
+    "serve:ssr": "node dist/server/main.js",
     "build:ssr": "ng build && ng run meli-booster-client-admin:server",
     "prerender": "ng run meli-booster-client-admin:prerender"
   },

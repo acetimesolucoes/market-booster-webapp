@@ -1,21 +1,100 @@
-<div class="container">
+<div class="container-fluid mt-5 mx-n4 px-4 mx-lg-n6 px-lg-6 pt-7">
   <!-- Content here -->
-  <h1>Orders</h1>
+  <h3>Pedidos</h3>
+  <p>Essa é a lista de pedidos recebidos</p>
 
-  <div class="row" *ngFor="let order of orders">
-    <div class="card col-12 mb-5">
-      <img src="..." class="card-img-top" alt="..." />
+  <div class="row">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>
+            <input
+              class="form-check-input mt-0"
+              type="checkbox"
+              value=""
+              aria-label="Checkbox for following text input"
+              disabled="true"
+            />
+          </th>
+          <th scope="col">PEDIDO</th>
+          <th scope="col">PRODUTO</th>
+          <th scope="col">CLIENTE</th>
+          <th scope="col">VALOR</th>
+          <th scope="col">PAGAMENTO</th>
+          <!-- <th scope="col">TAGS</th> -->
+          <th scope="col">STATUS</th>
+        </tr>
+      </thead>
+      <tbody *ngFor="let order of orders">
+        <tr>
+          <th>
+            <input
+              class="form-check-input mt-0"
+              type="checkbox"
+              value=""
+              aria-label="Checkbox for following text input"
+            />
+          </th>
+          <td>{{ order.id }}</td>
+          <td>{{ order.payments[0].reason }}</td>
+          <td>{{ order.buyer.nickname }}</td>
+          <td>{{ order.paid_amount | currency : order.currency_id }}</td>
+          <td>
+            <span
+              [ngClass]="
+                order.status == 'paid' ? 'bg-success' : 'text-bg-danger'
+              "
+              class="badge"
+              >{{ order.status }}</span
+            >
+          </td>
+          <!-- <td>{{ order.tags | json }}</td> -->
+          <td>
+            <!-- <span
+              [class]="{
+                'badge bg-success': order.fulfilled == true,
+                'badge text-bg-danger': order.fulfilled == false,
+                'badge text-bg-warning': order.fulfilled == null
+              }"
+            >
+          </span> -->
+            <p *ngIf="order.fulfilled == true">Entregue</p>
+            <p *ngIf="order.fulfilled == false">Cancelada</p>
+            <p *ngIf="order.fulfilled == null">A caminho</p>
+          </td>
+        </tr>
+        <!-- <tr>
+          <td colspan="4" class="pt-0">
+            <table class="table table-light">
+              <thead>
+                <tr>
+                  <th scope="col">Item</th>
+                  <th scope="col">Nome</th>
+                  <th scope="col">Valor</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let item of order.order_items">
+                  <!-- <td>{{ item | json }}</td> --!>
+                  <th scope="row">{{ item.item.id }}</th>
+                  <td>{{ item.item.title }}</td>
+                  <td>{{ item.unit_price | currency : order.currency_id }}</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr> -->
+      </tbody>
+    </table>
+
+    <!-- <div class="card col-12 mb-5">
       <div class="card-body">
+        <img [src]="order" class="card-img-top" alt="..." />
         <h5 class="card-title" *ngFor="let item of order.order_items">
           {{ item.item.title }}
         </h5>
         <p class="card-text">{{ order | json }}</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
       </div>
-    </div>
+    </div> -->
   </div>
-
-  <!-- <div>
-    {{ orders | json }}
-  </div> -->
 </div>
