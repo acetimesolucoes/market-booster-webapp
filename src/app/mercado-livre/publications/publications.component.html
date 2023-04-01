@@ -1,0 +1,50 @@
+<div class="container-fluid mt-4">
+  <h3>Publicações</h3>
+  <p>Listagem de publicações cadatradas na conta</p>
+
+  <div class="row">
+    <div class="container-fluid">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">
+              <input
+                class="form-check-input mt-0"
+                type="checkbox"
+                value=""
+                aria-label="Checkbox for following text input"
+                disabled="true"
+              />
+            </th>
+            <th scope="col">Id</th>
+            <th scope="col">Titulo</th>
+            <th scope="col">Quantidade</th>
+            <th scope="col">Vendidos</th>
+            <th scope="col">Valor Base</th>
+            <th scope="col">Valor Final</th>
+            <!-- <th scope="col">Pagamento</th> -->
+            <!-- <th scope="col">Status</th> -->
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let publication of publications">
+            <th scope="row">
+              <input
+                class="form-check-input mt-0"
+                type="checkbox"
+                value=""
+                aria-label="Checkbox for following text input"
+              />
+            </th>
+            <td>#{{ publication.id }}</td>
+            <td>{{ publication.title }}</td>
+            <td>{{ publication.available_quantity }}</td>
+            <td>{{ publication.sold_quantity }}</td>
+            <td>{{ publication.original_price | currency : "BRL" }}</td>
+            <td>{{ publication.price | currency : "BRL" }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

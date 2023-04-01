@@ -8,4 +8,6 @@ RUN npm install
 
 RUN npm install -g @angular/cli
 
-RUN npm run build
+# RUN npm run build:ssr
+
+# CMD [ "node", "start:ssr" ]

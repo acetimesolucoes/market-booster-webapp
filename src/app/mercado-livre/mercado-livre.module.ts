@@ -1,19 +1,27 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
 
 import { MercadoLivreRoutingModule } from './mercado-livre-routing.module';
 import { MercadoLivreComponent } from './mercado-livre.component';
-import { BrowserModule } from '@angular/platform-browser';
+import { MeliAuthInterceptor } from '../libs/interceptors/meli-auth.interceptor';
+import { OrdersComponent } from './orders/orders.component';
+import { PublicationsComponent } from './publications/publications.component';
 
 
 @NgModule({
   declarations: [
-    MercadoLivreComponent
+    MercadoLivreComponent,
   ],
   imports: [
-    BrowserModule,
+    BrowserModule.withServerTransition({ appId: 'serverApp' }),
     CommonModule,
     MercadoLivreRoutingModule,
+    HttpClientModule,
+  ],
+  providers: [
+    // MeliAuthInterceptor,
   ]
 })
 export class MercadoLivreModule { }

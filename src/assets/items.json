@@ -1,0 +1,2526 @@
+[
+  {
+    "code": 200,
+    "body": {
+      "id": "MLB3228044080",
+      "site_id": "MLB",
+      "title": "Massageador Portátil Recarregável Dor Pescoço Coluna Pernas",
+      "subtitle": null,
+      "seller_id": 215736591,
+      "category_id": "MLB180327",
+      "official_store_id": null,
+      "price": 39.52,
+      "base_price": 39.52,
+      "original_price": 48.8,
+      "inventory_id": null,
+      "currency_id": "BRL",
+      "initial_quantity": 114,
+      "available_quantity": 60,
+      "sold_quantity": 54,
+      "sale_terms": [
+        {
+          "id": "LOYALTY_LEVEL_3",
+          "name": "Preço por ser nível 3 do loyalty",
+          "value_id": null,
+          "value_name": "35.13 BRL",
+          "value_struct": { "number": 35.13, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "35.13 BRL",
+              "struct": { "number": 35.13, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_id": null,
+          "value_name": "3 meses",
+          "value_struct": { "number": 3, "unit": "meses" },
+          "values": [
+            {
+              "id": null,
+              "name": "3 meses",
+              "struct": { "number": 3, "unit": "meses" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_6",
+          "name": "Preço por ser nível 6 do loyalty",
+          "value_id": null,
+          "value_name": "35.13 BRL",
+          "value_struct": { "number": 35.13, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "35.13 BRL",
+              "struct": { "number": 35.13, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_id": "2230280",
+          "value_name": "Garantia do vendedor",
+          "value_struct": null,
+          "values": [
+            { "id": "2230280", "name": "Garantia do vendedor", "struct": null }
+          ],
+          "value_type": "list"
+        },
+        {
+          "id": "LOYALTY_LEVEL_5",
+          "name": "Preço por ser nível 5 do loyalty",
+          "value_id": null,
+          "value_name": "35.13 BRL",
+          "value_struct": { "number": 35.13, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "35.13 BRL",
+              "struct": { "number": 35.13, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_4",
+          "name": "Preço por ser nível 4 do loyalty",
+          "value_id": null,
+          "value_name": "35.13 BRL",
+          "value_struct": { "number": 35.13, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "35.13 BRL",
+              "struct": { "number": 35.13, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        }
+      ],
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "start_time": "2023-02-24T03:43:01.000Z",
+      "stop_time": "2043-03-26T22:38:41.000Z",
+      "end_time": "2043-03-26T22:38:41.000Z",
+      "expiration_time": "2023-06-19T22:42:17.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-3228044080-massageador-portatil-recarregavel-dor-pescoco-coluna-pernas-_JM",
+      "thumbnail_id": "869553-MLB54762451484_032023",
+      "thumbnail": "http://http2.mlstatic.com/D_869553-MLB54762451484_032023-I.jpg",
+      "secure_thumbnail": "https://http2.mlstatic.com/D_869553-MLB54762451484_032023-I.jpg",
+      "pictures": [
+        {
+          "id": "869553-MLB54762451484_032023",
+          "url": "http://http2.mlstatic.com/D_869553-MLB54762451484_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_869553-MLB54762451484_032023-O.jpg",
+          "size": "500x290",
+          "max_size": "1122x651",
+          "quality": ""
+        },
+        {
+          "id": "693115-MLB54761809938_032023",
+          "url": "http://http2.mlstatic.com/D_693115-MLB54761809938_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_693115-MLB54761809938_032023-O.jpg",
+          "size": "500x477",
+          "max_size": "1165x1112",
+          "quality": ""
+        },
+        {
+          "id": "763543-MLB54758548373_032023",
+          "url": "http://http2.mlstatic.com/D_763543-MLB54758548373_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_763543-MLB54758548373_032023-O.jpg",
+          "size": "500x372",
+          "max_size": "1200x893",
+          "quality": ""
+        },
+        {
+          "id": "731396-MLB54762433262_032023",
+          "url": "http://http2.mlstatic.com/D_731396-MLB54762433262_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_731396-MLB54762433262_032023-O.jpg",
+          "size": "500x440",
+          "max_size": "1096x966",
+          "quality": ""
+        },
+        {
+          "id": "939646-MLB54761949864_032023",
+          "url": "http://http2.mlstatic.com/D_939646-MLB54761949864_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_939646-MLB54761949864_032023-O.jpg",
+          "size": "500x411",
+          "max_size": "1047x861",
+          "quality": ""
+        },
+        {
+          "id": "927741-MLB54749091553_032023",
+          "url": "http://http2.mlstatic.com/D_927741-MLB54749091553_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_927741-MLB54749091553_032023-O.jpg",
+          "size": "500x489",
+          "max_size": "1200x1175",
+          "quality": ""
+        },
+        {
+          "id": "877084-MLB54752850676_032023",
+          "url": "http://http2.mlstatic.com/D_877084-MLB54752850676_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_877084-MLB54752850676_032023-O.jpg",
+          "size": "500x463",
+          "max_size": "1200x1113",
+          "quality": ""
+        },
+        {
+          "id": "804759-MLB54749091545_032023",
+          "url": "http://http2.mlstatic.com/D_804759-MLB54749091545_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_804759-MLB54749091545_032023-O.jpg",
+          "size": "500x453",
+          "max_size": "1200x1089",
+          "quality": ""
+        },
+        {
+          "id": "902382-MLB54749134043_032023",
+          "url": "http://http2.mlstatic.com/D_902382-MLB54749134043_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_902382-MLB54749134043_032023-O.jpg",
+          "size": "500x337",
+          "max_size": "1200x810",
+          "quality": ""
+        },
+        {
+          "id": "771260-MLB54492664825_032023",
+          "url": "http://http2.mlstatic.com/D_771260-MLB54492664825_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_771260-MLB54492664825_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        }
+      ],
+      "video_id": "KkBPN4HqkWI",
+      "descriptions": [],
+      "accepts_mercadopago": true,
+      "non_mercado_pago_payment_methods": [],
+      "shipping": {
+        "mode": "me2",
+        "methods": [],
+        "tags": ["self_service_in"],
+        "dimensions": null,
+        "local_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "drop_off",
+        "store_pick_up": false
+      },
+      "international_delivery_mode": "none",
+      "seller_address": {
+        "comment": "Referencia: SEEGAL COMERCIO DO BRASIL LTDA",
+        "address_line": "Rua Alberto Ferreira 262",
+        "zip_code": "32410056",
+        "city": { "id": "TUxCQ0lCSTdiNjY1", "name": "Ibirité" },
+        "state": { "id": "BR-MG", "name": "Minas Gerais" },
+        "country": { "id": "BR", "name": "Brasil" },
+        "search_location": {
+          "city": { "id": "TUxCQ0lCSTdiNjY1", "name": "Ibirité" },
+          "state": { "id": "TUxCUE1JTlMxNTAyZA", "name": "Minas Gerais" }
+        },
+        "latitude": -20.0338004,
+        "longitude": -44.0613676,
+        "id": 1282432672
+      },
+      "seller_contact": null,
+      "location": {},
+      "geolocation": { "latitude": -20.0338004, "longitude": -44.0613676 },
+      "coverage_areas": [],
+      "attributes": [
+        {
+          "id": "APPLICATION_ZONES",
+          "name": "Zonas de aplicação",
+          "value_id": null,
+          "value_name": "Braços,Coluna,Corpo,Costas,Ombros,Pernas",
+          "value_struct": null,
+          "values": [
+            { "id": null, "name": "Braços", "struct": null },
+            { "id": null, "name": "Coluna", "struct": null },
+            { "id": "8666600", "name": "Corpo", "struct": null },
+            { "id": "6678763", "name": "Costas", "struct": null },
+            { "id": "6678760", "name": "Ombros", "struct": null },
+            { "id": "15301259", "name": "Pernas", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "Massageador portatil eletrico",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Massageador portatil eletrico",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "GTIN",
+          "name": "Código universal de produto",
+          "value_id": null,
+          "value_name": "7896523610139",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "7896523610139", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "IS_MASSAGE_GUN",
+          "name": "É uma pistola massageadora",
+          "value_id": "242084",
+          "value_name": "Não",
+          "value_struct": null,
+          "values": [{ "id": "242084", "name": "Não", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "value_struct": null,
+          "values": [{ "id": "2230284", "name": "Novo", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "list"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "Mini massageador corporal recarregavel mini",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Mini massageador corporal recarregavel mini",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "PRODUCT_FEATURES",
+          "name": "Características do produto",
+          "value_id": "10490116",
+          "value_name": "Não voável",
+          "value_struct": null,
+          "values": [
+            { "id": "10490116", "name": "Não voável", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "list"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "8577502",
+          "value_name": "35 g",
+          "value_struct": { "number": 35, "unit": "g" },
+          "values": [
+            {
+              "id": "8577502",
+              "name": "35 g",
+              "struct": { "number": 35, "unit": "g" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WIDTH",
+          "name": "Largura",
+          "value_id": "5795689",
+          "value_name": "15 cm",
+          "value_struct": { "number": 15, "unit": "cm" },
+          "values": [
+            {
+              "id": "5795689",
+              "name": "15 cm",
+              "struct": { "number": 15, "unit": "cm" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WITH_SPEED_REGULATOR",
+          "name": "Com regulador de velocidade",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        }
+      ],
+      "warnings": [],
+      "listing_source": "",
+      "variations": [
+        {
+          "id": 177463158109,
+          "price": 39.52,
+          "attribute_combinations": [
+            {
+              "id": "VOLTAGE",
+              "name": "Voltagem",
+              "value_id": "198812",
+              "value_name": "110V/220V",
+              "value_struct": null,
+              "values": [
+                { "id": "198812", "name": "110V/220V", "struct": null }
+              ],
+              "value_type": "string"
+            }
+          ],
+          "available_quantity": 60,
+          "sold_quantity": 0,
+          "sale_terms": [],
+          "picture_ids": [
+            "869553-MLB54762451484_032023",
+            "693115-MLB54761809938_032023",
+            "763543-MLB54758548373_032023",
+            "731396-MLB54762433262_032023",
+            "939646-MLB54761949864_032023",
+            "927741-MLB54749091553_032023",
+            "877084-MLB54752850676_032023",
+            "804759-MLB54749091545_032023",
+            "902382-MLB54749134043_032023",
+            "771260-MLB54492664825_032023"
+          ],
+          "seller_custom_field": null,
+          "catalog_product_id": null,
+          "inventory_id": null,
+          "item_relations": []
+        }
+      ],
+      "status": "active",
+      "sub_status": [],
+      "tags": [
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "warranty": "Garantia do vendedor: 3 meses",
+      "catalog_product_id": null,
+      "domain_id": "MLB-PORTABLE_ELECTRIC_MASSAGERS",
+      "seller_custom_field": null,
+      "parent_item_id": null,
+      "differential_pricing": null,
+      "deal_ids": [],
+      "automatic_relist": false,
+      "date_created": "2023-02-24T03:43:01.000Z",
+      "last_updated": "2023-03-31T23:36:28.000Z",
+      "health": 0.87,
+      "catalog_listing": false,
+      "item_relations": [],
+      "channels": ["marketplace", "mshops"]
+    }
+  },
+  {
+    "code": 200,
+    "body": {
+      "id": "MLB3285187728",
+      "site_id": "MLB",
+      "title": "Câmera Ip Externa 100% Prova Dágua Wifi Icsee Full Hd 1080p",
+      "subtitle": null,
+      "seller_id": 215736591,
+      "category_id": "MLB7073",
+      "official_store_id": null,
+      "price": 188.74,
+      "base_price": 188.74,
+      "original_price": 285.98,
+      "inventory_id": null,
+      "currency_id": "BRL",
+      "initial_quantity": 18,
+      "available_quantity": 10,
+      "sold_quantity": 8,
+      "sale_terms": [
+        {
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_id": "2230280",
+          "value_name": "Garantia do vendedor",
+          "value_struct": null,
+          "values": [
+            { "id": "2230280", "name": "Garantia do vendedor", "struct": null }
+          ],
+          "value_type": "list"
+        },
+        {
+          "id": "LOYALTY_LEVEL_4",
+          "name": "Preço por ser nível 4 do loyalty",
+          "value_id": null,
+          "value_name": "174.44 BRL",
+          "value_struct": { "number": 174.44, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "174.44 BRL",
+              "struct": { "number": 174.44, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_3",
+          "name": "Preço por ser nível 3 do loyalty",
+          "value_id": null,
+          "value_name": "174.44 BRL",
+          "value_struct": { "number": 174.44, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "174.44 BRL",
+              "struct": { "number": 174.44, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_5",
+          "name": "Preço por ser nível 5 do loyalty",
+          "value_id": null,
+          "value_name": "174.44 BRL",
+          "value_struct": { "number": 174.44, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "174.44 BRL",
+              "struct": { "number": 174.44, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_6",
+          "name": "Preço por ser nível 6 do loyalty",
+          "value_id": null,
+          "value_name": "174.44 BRL",
+          "value_struct": { "number": 174.44, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "174.44 BRL",
+              "struct": { "number": 174.44, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_id": null,
+          "value_name": "3 meses",
+          "value_struct": { "number": 3, "unit": "meses" },
+          "values": [
+            {
+              "id": null,
+              "name": "3 meses",
+              "struct": { "number": 3, "unit": "meses" }
+            }
+          ],
+          "value_type": "number_unit"
+        }
+      ],
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "start_time": "2023-03-10T21:36:20.000Z",
+      "stop_time": "2043-03-12T17:21:15.000Z",
+      "end_time": "2043-03-12T17:21:15.000Z",
+      "expiration_time": "2023-06-19T22:36:30.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-3285187728-cmera-ip-externa-100-prova-dagua-wifi-icsee-full-hd-1080p-_JM",
+      "thumbnail_id": "810620-MLA49705258091_042022",
+      "thumbnail": "http://http2.mlstatic.com/D_810620-MLA49705258091_042022-I.jpg",
+      "secure_thumbnail": "https://http2.mlstatic.com/D_810620-MLA49705258091_042022-I.jpg",
+      "pictures": [
+        {
+          "id": "810620-MLA49705258091_042022",
+          "url": "http://http2.mlstatic.com/D_810620-MLA49705258091_042022-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_810620-MLA49705258091_042022-O.jpg",
+          "size": "419x500",
+          "max_size": "1003x1196",
+          "quality": ""
+        },
+        {
+          "id": "868999-MLB54293572142_032023",
+          "url": "http://http2.mlstatic.com/D_868999-MLB54293572142_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_868999-MLB54293572142_032023-O.jpg",
+          "size": "451x500",
+          "max_size": "1083x1200",
+          "quality": ""
+        },
+        {
+          "id": "673594-MLB54293385874_032023",
+          "url": "http://http2.mlstatic.com/D_673594-MLB54293385874_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_673594-MLB54293385874_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "990656-MLB54292547765_032023",
+          "url": "http://http2.mlstatic.com/D_990656-MLB54292547765_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_990656-MLB54292547765_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "835524-MLB54292702215_032023",
+          "url": "http://http2.mlstatic.com/D_835524-MLB54292702215_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_835524-MLB54292702215_032023-O.jpg",
+          "size": "477x500",
+          "max_size": "1146x1200",
+          "quality": ""
+        },
+        {
+          "id": "691301-MLB54293540388_032023",
+          "url": "http://http2.mlstatic.com/D_691301-MLB54293540388_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_691301-MLB54293540388_032023-O.jpg",
+          "size": "500x483",
+          "max_size": "1196x1157",
+          "quality": ""
+        },
+        {
+          "id": "757237-MLB54293395728_032023",
+          "url": "http://http2.mlstatic.com/D_757237-MLB54293395728_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_757237-MLB54293395728_032023-O.jpg",
+          "size": "500x499",
+          "max_size": "1197x1195",
+          "quality": ""
+        },
+        {
+          "id": "932787-MLB54494909376_032023",
+          "url": "http://http2.mlstatic.com/D_932787-MLB54494909376_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_932787-MLB54494909376_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        }
+      ],
+      "video_id": "KkBPN4HqkWI",
+      "descriptions": [],
+      "accepts_mercadopago": true,
+      "non_mercado_pago_payment_methods": [],
+      "shipping": {
+        "mode": "me2",
+        "methods": [],
+        "tags": ["self_service_in", "mandatory_free_shipping"],
+        "dimensions": null,
+        "local_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "drop_off",
+        "store_pick_up": false
+      },
+      "international_delivery_mode": "none",
+      "seller_address": {
+        "comment": "Referencia: SEEGAL COMERCIO DO BRASIL LTDA",
+        "address_line": "Rua Alberto Ferreira 262",
+        "zip_code": "32410056",
+        "city": { "id": "TUxCQ0lCSTdiNjY1", "name": "Ibirité" },
+        "state": { "id": "BR-MG", "name": "Minas Gerais" },
+        "country": { "id": "BR", "name": "Brasil" },
+        "search_location": {
+          "city": { "id": "TUxCQ0lCSTdiNjY1", "name": "Ibirité" },
+          "state": { "id": "TUxCUE1JTlMxNTAyZA", "name": "Minas Gerais" }
+        },
+        "latitude": -20.0338004,
+        "longitude": -44.0613676,
+        "id": 1282432672
+      },
+      "seller_contact": null,
+      "location": {},
+      "geolocation": { "latitude": -20.0338004, "longitude": -44.0613676 },
+      "coverage_areas": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "Câmera de Segurança IP Wifi Smart",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Câmera de Segurança IP Wifi Smart",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "CAMERA_LOCATIONS",
+          "name": "Localizações da câmera",
+          "value_id": "11296608",
+          "value_name": "Exterior",
+          "value_struct": null,
+          "values": [{ "id": "11296608", "name": "Exterior", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "CONNECTION_TYPES",
+          "name": "Tipos de conexões",
+          "value_id": null,
+          "value_name": "Com fio,Sem fio",
+          "value_struct": null,
+          "values": [
+            { "id": "1210905", "name": "Com fio", "struct": null },
+            { "id": "11296606", "name": "Sem fio", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "CONNECTIVITY",
+          "name": "Conectividade",
+          "value_id": null,
+          "value_name": "IP,LAN,Wi-Fi",
+          "value_struct": null,
+          "values": [
+            { "id": "12237752", "name": "IP", "struct": null },
+            { "id": "11296604", "name": "LAN", "struct": null },
+            { "id": "2511537", "name": "Wi-Fi", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "CONTROL_TYPES",
+          "name": "Tipos de controle",
+          "value_id": null,
+          "value_name": "App,PC,Remoto",
+          "value_struct": null,
+          "values": [
+            { "id": "11296613", "name": "App", "struct": null },
+            { "id": "11403076", "name": "PC", "struct": null },
+            { "id": "11296614", "name": "Remoto", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "DIGITAL_ZOOM",
+          "name": "Zoom digital",
+          "value_id": "7206950",
+          "value_name": "4x",
+          "value_struct": { "number": 4, "unit": "x" },
+          "values": [
+            {
+              "id": "7206950",
+              "name": "4x",
+              "struct": { "number": 4, "unit": "x" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "IS_MOTORIZED",
+          "name": "É motorizada",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "IS_WATER_RESISTANT",
+          "name": "É resistente à água",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "value_struct": null,
+          "values": [{ "id": "2230284", "name": "Novo", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "list"
+        },
+        {
+          "id": "LENS_FOCAL_LENGTH",
+          "name": "Distância focal da lente",
+          "value_id": "11312201",
+          "value_name": "3.6 mm",
+          "value_struct": { "number": 3.6, "unit": "mm" },
+          "values": [
+            {
+              "id": "11312201",
+              "name": "3.6 mm",
+              "struct": { "number": 3.6, "unit": "mm" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LINE",
+          "name": "Linha",
+          "value_id": null,
+          "value_name": "Câmera IP Smart Externa ICSEE",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Câmera IP Smart Externa ICSEE",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "MAX_TEMPERATURE_SUPPORTED",
+          "name": "Temperatura máxima suportada",
+          "value_id": null,
+          "value_name": "60 °C",
+          "value_struct": { "number": 60, "unit": "°C" },
+          "values": [
+            {
+              "id": null,
+              "name": "60 °C",
+              "struct": { "number": 60, "unit": "°C" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "MIN_TEMPERATURE_SUPPORTED",
+          "name": "Temperatura mínima suportada",
+          "value_id": null,
+          "value_name": "5 °C",
+          "value_struct": { "number": 5, "unit": "°C" },
+          "values": [
+            {
+              "id": null,
+              "name": "5 °C",
+              "struct": { "number": 5, "unit": "°C" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "Câmera IP Smart A8 Homologada Anatel",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Câmera IP Smart A8 Homologada Anatel",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "MOUNTING_PLACES",
+          "name": "Lugares de montagem",
+          "value_id": null,
+          "value_name": "Estacionamento,Garagem,Parede,Portão,Rua,Teto",
+          "value_struct": null,
+          "values": [
+            { "id": null, "name": "Estacionamento", "struct": null },
+            { "id": null, "name": "Garagem", "struct": null },
+            { "id": "7720908", "name": "Parede", "struct": null },
+            { "id": null, "name": "Portão", "struct": null },
+            { "id": null, "name": "Rua", "struct": null },
+            { "id": "7720909", "name": "Teto", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "MOVEMENT_TYPE",
+          "name": "Tipo de movimento",
+          "value_id": "11296609",
+          "value_name": "PTZ",
+          "value_struct": null,
+          "values": [{ "id": "11296609", "name": "PTZ", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "NIGHT_SCOPE_DISTANCE",
+          "name": "Distância de alcance noturno",
+          "value_id": "12715696",
+          "value_name": "25 ft",
+          "value_struct": { "number": 25, "unit": "ft" },
+          "values": [
+            {
+              "id": "12715696",
+              "name": "25 ft",
+              "struct": { "number": 25, "unit": "ft" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATIVE_SYSTEMS_COMPATIBILITY",
+          "name": "Sistemas operativos compatíveis",
+          "value_id": null,
+          "value_name": "Android,iOS",
+          "value_struct": null,
+          "values": [
+            { "id": "8846210", "name": "Android", "struct": null },
+            { "id": "8846211", "name": "iOS", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "OPTICAL_ZOOM",
+          "name": "Zoom óptico",
+          "value_id": null,
+          "value_name": "0x",
+          "value_struct": { "number": 0, "unit": "x" },
+          "values": [
+            { "id": null, "name": "0x", "struct": { "number": 0, "unit": "x" } }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "POWER_SUPPLY_TYPES",
+          "name": "Tipos de alimentação",
+          "value_id": "8152567",
+          "value_name": "Corrente elétrica",
+          "value_struct": null,
+          "values": [
+            { "id": "8152567", "name": "Corrente elétrica", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "RESOLUTION_QUALITY",
+          "name": "Qualidade de resoluçao",
+          "value_id": "11296601",
+          "value_name": "2MP",
+          "value_struct": null,
+          "values": [{ "id": "11296601", "name": "2MP", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "RESOLUTION_TYPE",
+          "name": "Tipo de resolução",
+          "value_id": "290770",
+          "value_name": "Full HD",
+          "value_struct": null,
+          "values": [{ "id": "290770", "name": "Full HD", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "SPY_CAMERA_FORMAT",
+          "name": "Formato da câmera espiã",
+          "value_id": null,
+          "value_name": "Fixa",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "Fixa", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "STORAGE_CAPACITY",
+          "name": "Capacidade de armazenamento",
+          "value_id": null,
+          "value_name": "128 GB",
+          "value_struct": { "number": 128, "unit": "GB" },
+          "values": [
+            {
+              "id": null,
+              "name": "128 GB",
+              "struct": { "number": 128, "unit": "GB" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "STORAGE_TYPES",
+          "name": "Tipos de armazenamento",
+          "value_id": null,
+          "value_name": "Micro-SD,NVR,Nuvem",
+          "value_struct": null,
+          "values": [
+            { "id": "11081550", "name": "Micro-SD", "struct": null },
+            { "id": "11344593", "name": "NVR", "struct": null },
+            { "id": "11314128", "name": "Nuvem", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "SURVEILLANCE_CAMERA_TYPE",
+          "name": "Tipo de câmera de vigilância",
+          "value_id": "347863",
+          "value_name": "IP",
+          "value_struct": null,
+          "values": [{ "id": "347863", "name": "IP", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "UNITS_PER_PACKAGE",
+          "name": "Unidades por embalagem",
+          "value_id": null,
+          "value_name": "1",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "1", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number"
+        },
+        {
+          "id": "VISUAL_FIELD",
+          "name": "Campo visual",
+          "value_id": null,
+          "value_name": "360º",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "360º", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "WATERPROOF_RATING",
+          "name": "Classificação de resistência à água",
+          "value_id": "11296611",
+          "value_name": "IP66",
+          "value_struct": null,
+          "values": [{ "id": "11296611", "name": "IP66", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "WITH_ALARM",
+          "name": "Com alarme",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "WITH_COLOR_NIGHT_VISION",
+          "name": "Com visão noturna colorida",
+          "value_id": "242084",
+          "value_name": "Não",
+          "value_struct": null,
+          "values": [{ "id": "242084", "name": "Não", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "WITH_MICROPHONE",
+          "name": "Com microfone",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "WITH_MOTION_SENSOR",
+          "name": "Com sensor de movimento",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "WITH_NIGHT_VISION",
+          "name": "Com visão noturna",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "WITH_NOISE_REDUCTION",
+          "name": "Com redução de ruído",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "WITH_TWO_WAY_AUDIO",
+          "name": "Com áudio bidirecional",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        }
+      ],
+      "warnings": [],
+      "listing_source": "",
+      "variations": [
+        {
+          "id": 177001835420,
+          "price": 188.74,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Cor",
+              "value_id": "52055",
+              "value_name": "Branco",
+              "value_struct": null,
+              "values": [{ "id": "52055", "name": "Branco", "struct": null }],
+              "value_type": "string"
+            }
+          ],
+          "available_quantity": 10,
+          "sold_quantity": 8,
+          "sale_terms": [],
+          "picture_ids": [
+            "810620-MLA49705258091_042022",
+            "868999-MLB54293572142_032023",
+            "673594-MLB54293385874_032023",
+            "990656-MLB54292547765_032023",
+            "835524-MLB54292702215_032023",
+            "691301-MLB54293540388_032023",
+            "757237-MLB54293395728_032023",
+            "932787-MLB54494909376_032023"
+          ],
+          "seller_custom_field": null,
+          "catalog_product_id": null,
+          "inventory_id": null,
+          "item_relations": []
+        }
+      ],
+      "status": "active",
+      "sub_status": [],
+      "tags": ["good_quality_thumbnail", "immediate_payment", "cart_eligible"],
+      "warranty": "Garantia do vendedor: 3 meses",
+      "catalog_product_id": null,
+      "domain_id": "MLB-SURVEILLANCE_CAMERAS",
+      "seller_custom_field": null,
+      "parent_item_id": null,
+      "differential_pricing": null,
+      "deal_ids": [],
+      "automatic_relist": false,
+      "date_created": "2023-03-10T21:36:20.000Z",
+      "last_updated": "2023-03-31T22:36:30.000Z",
+      "health": 1,
+      "catalog_listing": false,
+      "item_relations": [],
+      "channels": ["marketplace", "mshops"]
+    }
+  },
+  {
+    "code": 200,
+    "body": {
+      "id": "MLB3286427068",
+      "site_id": "MLB",
+      "title": "Microfone Sem Fio Bluetooth Youtuber Karaoke Reporter Cores",
+      "subtitle": null,
+      "seller_id": 215736591,
+      "category_id": "MLB4469",
+      "official_store_id": null,
+      "price": 44.17,
+      "base_price": 44.17,
+      "original_price": 58.9,
+      "inventory_id": null,
+      "currency_id": "BRL",
+      "initial_quantity": 19,
+      "available_quantity": 3,
+      "sold_quantity": 16,
+      "sale_terms": [
+        {
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_id": null,
+          "value_name": "3 meses",
+          "value_struct": { "number": 3, "unit": "meses" },
+          "values": [
+            {
+              "id": null,
+              "name": "3 meses",
+              "struct": { "number": 3, "unit": "meses" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_4",
+          "name": "Preço por ser nível 4 do loyalty",
+          "value_id": null,
+          "value_name": "41.23 BRL",
+          "value_struct": { "number": 41.23, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "41.23 BRL",
+              "struct": { "number": 41.23, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_3",
+          "name": "Preço por ser nível 3 do loyalty",
+          "value_id": null,
+          "value_name": "41.23 BRL",
+          "value_struct": { "number": 41.23, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "41.23 BRL",
+              "struct": { "number": 41.23, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_5",
+          "name": "Preço por ser nível 5 do loyalty",
+          "value_id": null,
+          "value_name": "41.23 BRL",
+          "value_struct": { "number": 41.23, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "41.23 BRL",
+              "struct": { "number": 41.23, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_6",
+          "name": "Preço por ser nível 6 do loyalty",
+          "value_id": null,
+          "value_name": "41.23 BRL",
+          "value_struct": { "number": 41.23, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "41.23 BRL",
+              "struct": { "number": 41.23, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_id": "2230280",
+          "value_name": "Garantia do vendedor",
+          "value_struct": null,
+          "values": [
+            { "id": "2230280", "name": "Garantia do vendedor", "struct": null }
+          ],
+          "value_type": "list"
+        }
+      ],
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "start_time": "2023-03-11T06:36:09.000Z",
+      "stop_time": "2043-03-16T04:19:31.000Z",
+      "end_time": "2043-03-16T04:19:31.000Z",
+      "expiration_time": "2023-06-19T22:47:08.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-3286427068-microfone-sem-fio-bluetooth-youtuber-karaoke-reporter-cores-_JM",
+      "thumbnail_id": "631540-MLB54489739813_032023",
+      "thumbnail": "http://http2.mlstatic.com/D_631540-MLB54489739813_032023-I.jpg",
+      "secure_thumbnail": "https://http2.mlstatic.com/D_631540-MLB54489739813_032023-I.jpg",
+      "pictures": [
+        {
+          "id": "992352-MLB54489786279_032023",
+          "url": "http://http2.mlstatic.com/D_992352-MLB54489786279_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_992352-MLB54489786279_032023-O.jpg",
+          "size": "500x474",
+          "max_size": "1200x1138",
+          "quality": ""
+        },
+        {
+          "id": "785129-MLB54492131088_032023",
+          "url": "http://http2.mlstatic.com/D_785129-MLB54492131088_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_785129-MLB54492131088_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "614036-MLB54492137248_032023",
+          "url": "http://http2.mlstatic.com/D_614036-MLB54492137248_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_614036-MLB54492137248_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "840343-MLB54492081822_032023",
+          "url": "http://http2.mlstatic.com/D_840343-MLB54492081822_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_840343-MLB54492081822_032023-O.jpg",
+          "size": "458x500",
+          "max_size": "1100x1200",
+          "quality": ""
+        },
+        {
+          "id": "798231-MLB54492139454_032023",
+          "url": "http://http2.mlstatic.com/D_798231-MLB54492139454_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_798231-MLB54492139454_032023-O.jpg",
+          "size": "432x500",
+          "max_size": "1039x1200",
+          "quality": ""
+        },
+        {
+          "id": "828274-MLB54492166922_032023",
+          "url": "http://http2.mlstatic.com/D_828274-MLB54492166922_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_828274-MLB54492166922_032023-O.jpg",
+          "size": "500x494",
+          "max_size": "1196x1182",
+          "quality": ""
+        },
+        {
+          "id": "810928-MLB54492157052_032023",
+          "url": "http://http2.mlstatic.com/D_810928-MLB54492157052_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_810928-MLB54492157052_032023-O.jpg",
+          "size": "475x500",
+          "max_size": "1141x1200",
+          "quality": ""
+        },
+        {
+          "id": "718578-MLB54492194698_032023",
+          "url": "http://http2.mlstatic.com/D_718578-MLB54492194698_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_718578-MLB54492194698_032023-O.jpg",
+          "size": "500x482",
+          "max_size": "1200x1159",
+          "quality": ""
+        },
+        {
+          "id": "715421-MLB54494909478_032023",
+          "url": "http://http2.mlstatic.com/D_715421-MLB54494909478_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_715421-MLB54494909478_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "776898-MLB54492201270_032023",
+          "url": "http://http2.mlstatic.com/D_776898-MLB54492201270_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_776898-MLB54492201270_032023-O.jpg",
+          "size": "500x474",
+          "max_size": "1200x1138",
+          "quality": ""
+        },
+        {
+          "id": "637480-MLB54492137436_032023",
+          "url": "http://http2.mlstatic.com/D_637480-MLB54492137436_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_637480-MLB54492137436_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "885992-MLB54492159658_032023",
+          "url": "http://http2.mlstatic.com/D_885992-MLB54492159658_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_885992-MLB54492159658_032023-O.jpg",
+          "size": "475x500",
+          "max_size": "1141x1200",
+          "quality": ""
+        },
+        {
+          "id": "794895-MLB54492150872_032023",
+          "url": "http://http2.mlstatic.com/D_794895-MLB54492150872_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_794895-MLB54492150872_032023-O.jpg",
+          "size": "458x500",
+          "max_size": "1100x1200",
+          "quality": ""
+        },
+        {
+          "id": "770994-MLB54489802393_032023",
+          "url": "http://http2.mlstatic.com/D_770994-MLB54489802393_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_770994-MLB54489802393_032023-O.jpg",
+          "size": "432x500",
+          "max_size": "1039x1200",
+          "quality": ""
+        },
+        {
+          "id": "693220-MLB54489784711_032023",
+          "url": "http://http2.mlstatic.com/D_693220-MLB54489784711_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_693220-MLB54489784711_032023-O.jpg",
+          "size": "500x494",
+          "max_size": "1196x1182",
+          "quality": ""
+        },
+        {
+          "id": "679864-MLB54492201274_032023",
+          "url": "http://http2.mlstatic.com/D_679864-MLB54492201274_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_679864-MLB54492201274_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "910507-MLB54492103622_032023",
+          "url": "http://http2.mlstatic.com/D_910507-MLB54492103622_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_910507-MLB54492103622_032023-O.jpg",
+          "size": "500x482",
+          "max_size": "1200x1159",
+          "quality": ""
+        },
+        {
+          "id": "633042-MLB54492664987_032023",
+          "url": "http://http2.mlstatic.com/D_633042-MLB54492664987_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_633042-MLB54492664987_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "631540-MLB54489739813_032023",
+          "url": "http://http2.mlstatic.com/D_631540-MLB54489739813_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_631540-MLB54489739813_032023-O.jpg",
+          "size": "500x474",
+          "max_size": "1200x1138",
+          "quality": ""
+        },
+        {
+          "id": "610510-MLB54492201450_032023",
+          "url": "http://http2.mlstatic.com/D_610510-MLB54492201450_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_610510-MLB54492201450_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "924616-MLB54489767053_032023",
+          "url": "http://http2.mlstatic.com/D_924616-MLB54489767053_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_924616-MLB54489767053_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "638270-MLB54489784873_032023",
+          "url": "http://http2.mlstatic.com/D_638270-MLB54489784873_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_638270-MLB54489784873_032023-O.jpg",
+          "size": "458x500",
+          "max_size": "1100x1200",
+          "quality": ""
+        },
+        {
+          "id": "715792-MLB54492211234_032023",
+          "url": "http://http2.mlstatic.com/D_715792-MLB54492211234_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_715792-MLB54492211234_032023-O.jpg",
+          "size": "432x500",
+          "max_size": "1039x1200",
+          "quality": ""
+        },
+        {
+          "id": "652583-MLB54492201492_032023",
+          "url": "http://http2.mlstatic.com/D_652583-MLB54492201492_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_652583-MLB54492201492_032023-O.jpg",
+          "size": "500x494",
+          "max_size": "1196x1182",
+          "quality": ""
+        },
+        {
+          "id": "775265-MLB54492159872_032023",
+          "url": "http://http2.mlstatic.com/D_775265-MLB54492159872_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_775265-MLB54492159872_032023-O.jpg",
+          "size": "475x500",
+          "max_size": "1141x1200",
+          "quality": ""
+        },
+        {
+          "id": "903420-MLB54489784957_032023",
+          "url": "http://http2.mlstatic.com/D_903420-MLB54489784957_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_903420-MLB54489784957_032023-O.jpg",
+          "size": "500x482",
+          "max_size": "1200x1159",
+          "quality": ""
+        },
+        {
+          "id": "803816-MLB54494933410_032023",
+          "url": "http://http2.mlstatic.com/D_803816-MLB54494933410_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_803816-MLB54494933410_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "966944-MLB54492256096_032023",
+          "url": "http://http2.mlstatic.com/D_966944-MLB54492256096_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_966944-MLB54492256096_032023-O.jpg",
+          "size": "500x474",
+          "max_size": "1200x1138",
+          "quality": ""
+        },
+        {
+          "id": "614480-MLB54489767183_032023",
+          "url": "http://http2.mlstatic.com/D_614480-MLB54489767183_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_614480-MLB54489767183_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "894504-MLB54492137754_032023",
+          "url": "http://http2.mlstatic.com/D_894504-MLB54492137754_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_894504-MLB54492137754_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "762425-MLB54492256162_032023",
+          "url": "http://http2.mlstatic.com/D_762425-MLB54492256162_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_762425-MLB54492256162_032023-O.jpg",
+          "size": "458x500",
+          "max_size": "1100x1200",
+          "quality": ""
+        },
+        {
+          "id": "654102-MLB54492177834_032023",
+          "url": "http://http2.mlstatic.com/D_654102-MLB54492177834_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_654102-MLB54492177834_032023-O.jpg",
+          "size": "432x500",
+          "max_size": "1039x1200",
+          "quality": ""
+        },
+        {
+          "id": "845498-MLB54489767263_032023",
+          "url": "http://http2.mlstatic.com/D_845498-MLB54489767263_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_845498-MLB54489767263_032023-O.jpg",
+          "size": "500x494",
+          "max_size": "1196x1182",
+          "quality": ""
+        },
+        {
+          "id": "843867-MLB54489802595_032023",
+          "url": "http://http2.mlstatic.com/D_843867-MLB54489802595_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_843867-MLB54489802595_032023-O.jpg",
+          "size": "475x500",
+          "max_size": "1141x1200",
+          "quality": ""
+        },
+        {
+          "id": "830064-MLB54492157304_032023",
+          "url": "http://http2.mlstatic.com/D_830064-MLB54492157304_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_830064-MLB54492157304_032023-O.jpg",
+          "size": "500x482",
+          "max_size": "1200x1159",
+          "quality": ""
+        },
+        {
+          "id": "621101-MLB54494879572_032023",
+          "url": "http://http2.mlstatic.com/D_621101-MLB54494879572_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_621101-MLB54494879572_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "672192-MLB54492211400_032023",
+          "url": "http://http2.mlstatic.com/D_672192-MLB54492211400_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_672192-MLB54492211400_032023-O.jpg",
+          "size": "500x474",
+          "max_size": "1200x1138",
+          "quality": ""
+        },
+        {
+          "id": "633701-MLB54489846055_032023",
+          "url": "http://http2.mlstatic.com/D_633701-MLB54489846055_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_633701-MLB54489846055_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "992332-MLB54489767357_032023",
+          "url": "http://http2.mlstatic.com/D_992332-MLB54489767357_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_992332-MLB54489767357_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        },
+        {
+          "id": "719667-MLB54489767367_032023",
+          "url": "http://http2.mlstatic.com/D_719667-MLB54489767367_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_719667-MLB54489767367_032023-O.jpg",
+          "size": "458x500",
+          "max_size": "1100x1200",
+          "quality": ""
+        },
+        {
+          "id": "689710-MLB54492211432_032023",
+          "url": "http://http2.mlstatic.com/D_689710-MLB54492211432_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_689710-MLB54492211432_032023-O.jpg",
+          "size": "432x500",
+          "max_size": "1039x1200",
+          "quality": ""
+        },
+        {
+          "id": "651603-MLB54492167320_032023",
+          "url": "http://http2.mlstatic.com/D_651603-MLB54492167320_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_651603-MLB54492167320_032023-O.jpg",
+          "size": "500x494",
+          "max_size": "1196x1182",
+          "quality": ""
+        },
+        {
+          "id": "992619-MLB54492201748_032023",
+          "url": "http://http2.mlstatic.com/D_992619-MLB54492201748_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_992619-MLB54492201748_032023-O.jpg",
+          "size": "475x500",
+          "max_size": "1141x1200",
+          "quality": ""
+        },
+        {
+          "id": "612702-MLB54492103746_032023",
+          "url": "http://http2.mlstatic.com/D_612702-MLB54492103746_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_612702-MLB54492103746_032023-O.jpg",
+          "size": "500x482",
+          "max_size": "1200x1159",
+          "quality": ""
+        },
+        {
+          "id": "716162-MLB54494937408_032023",
+          "url": "http://http2.mlstatic.com/D_716162-MLB54494937408_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_716162-MLB54494937408_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        }
+      ],
+      "video_id": "KkBPN4HqkWI",
+      "descriptions": [],
+      "accepts_mercadopago": true,
+      "non_mercado_pago_payment_methods": [],
+      "shipping": {
+        "mode": "me2",
+        "methods": [],
+        "tags": ["self_service_in"],
+        "dimensions": null,
+        "local_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "drop_off",
+        "store_pick_up": false
+      },
+      "international_delivery_mode": "none",
+      "seller_address": {
+        "comment": "Referencia: SEEGAL COMERCIO DO BRASIL LTDA",
+        "address_line": "Rua Alberto Ferreira 262",
+        "zip_code": "32410056",
+        "city": { "id": "TUxCQ0lCSTdiNjY1", "name": "Ibirité" },
+        "state": { "id": "BR-MG", "name": "Minas Gerais" },
+        "country": { "id": "BR", "name": "Brasil" },
+        "search_location": {
+          "city": { "id": "TUxCQ0lCSTdiNjY1", "name": "Ibirité" },
+          "state": { "id": "TUxCUE1JTlMxNTAyZA", "name": "Minas Gerais" }
+        },
+        "latitude": -20.0338004,
+        "longitude": -44.0613676,
+        "id": 1282432672
+      },
+      "seller_contact": null,
+      "location": {},
+      "geolocation": { "latitude": -20.0338004, "longitude": -44.0613676 },
+      "coverage_areas": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "Microfone Sem Fio Bluetooth",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Microfone Sem Fio Bluetooth",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "CABLE_LENGTH",
+          "name": "Comprimento do cabo",
+          "value_id": null,
+          "value_name": "0 m",
+          "value_struct": { "number": 0, "unit": "m" },
+          "values": [
+            {
+              "id": null,
+              "name": "0 m",
+              "struct": { "number": 0, "unit": "m" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "CONNECTION_TYPES",
+          "name": "Tipos de conexões",
+          "value_id": "11296606",
+          "value_name": "Sem fio",
+          "value_struct": null,
+          "values": [{ "id": "11296606", "name": "Sem fio", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "list"
+        },
+        {
+          "id": "IS_GAMER",
+          "name": "É gamer",
+          "value_id": "242084",
+          "value_name": "Não",
+          "value_struct": null,
+          "values": [{ "id": "242084", "name": "Não", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "value_struct": null,
+          "values": [{ "id": "2230284", "name": "Novo", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "list"
+        },
+        {
+          "id": "MAX_FREQUENCY",
+          "name": "Frequência máxima",
+          "value_id": null,
+          "value_name": "10 Hz",
+          "value_struct": { "number": 10, "unit": "Hz" },
+          "values": [
+            {
+              "id": null,
+              "name": "10 Hz",
+              "struct": { "number": 10, "unit": "Hz" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "MICROPHONES_NUMBER",
+          "name": "Quantidade de microfones",
+          "value_id": null,
+          "value_name": "1",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "1", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number"
+        },
+        {
+          "id": "MICROPHONE_FORMATS",
+          "name": "Formatos de microfone",
+          "value_id": null,
+          "value_name": "Mão",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "Mão", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "MICROPHONE_RECOMMENDED_USES",
+          "name": "Usos recomendados do microfone",
+          "value_id": null,
+          "value_name": "Cantar,Crianças,Festas,Palestrar,Treinar",
+          "value_struct": null,
+          "values": [
+            { "id": null, "name": "Cantar", "struct": null },
+            { "id": null, "name": "Crianças", "struct": null },
+            { "id": null, "name": "Festas", "struct": null },
+            { "id": null, "name": "Palestrar", "struct": null },
+            { "id": null, "name": "Treinar", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "MICROPHONE_TYPES",
+          "name": "Tipos de microfone",
+          "value_id": "103745",
+          "value_name": "Dinâmico",
+          "value_struct": null,
+          "values": [{ "id": "103745", "name": "Dinâmico", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "MIN_FREQUENCY",
+          "name": "Frequência mínima",
+          "value_id": null,
+          "value_name": "100 Hz",
+          "value_struct": { "number": 100, "unit": "Hz" },
+          "values": [
+            {
+              "id": null,
+              "name": "100 Hz",
+              "struct": { "number": 100, "unit": "Hz" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "Microfone bluetooth karaoke youtuber gravador com som ws-858 microfone com bluetooth microfone bluetooth barato microfone bluetooth karaoke Funciona no bluetooth do som reconhece caixa de som com Bluetooth efeitos de mudar a voz microfone bluetooth",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Microfone bluetooth karaoke youtuber gravador com som ws-858 microfone com bluetooth microfone bluetooth barato microfone bluetooth karaoke Funciona no bluetooth do som reconhece caixa de som com Bluetooth efeitos de mudar a voz microfone bluetooth",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "POLAR_PATTERNS",
+          "name": "Padrões polares",
+          "value_id": "2253805",
+          "value_name": "Omnidirecional",
+          "value_struct": null,
+          "values": [
+            { "id": "2253805", "name": "Omnidirecional", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "PRODUCT_FEATURES",
+          "name": "Características do produto",
+          "value_id": "10490116",
+          "value_name": "Não voável",
+          "value_struct": null,
+          "values": [
+            { "id": "10490116", "name": "Não voável", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_BLUETOOTH",
+          "name": "Com Bluetooth",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        },
+        {
+          "id": "WITH_BUILT_IN_SPEAKERS",
+          "name": "Com alto-falantes embutidos",
+          "value_id": "242085",
+          "value_name": "Sim",
+          "value_struct": null,
+          "values": [{ "id": "242085", "name": "Sim", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "boolean"
+        }
+      ],
+      "warnings": [],
+      "listing_source": "",
+      "variations": [
+        {
+          "id": 177160181869,
+          "price": 44.17,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Cor",
+              "value_id": "283164",
+              "value_name": "Dourado",
+              "value_struct": null,
+              "values": [{ "id": "283164", "name": "Dourado", "struct": null }],
+              "value_type": "string"
+            }
+          ],
+          "available_quantity": 3,
+          "sold_quantity": 2,
+          "sale_terms": [],
+          "picture_ids": [
+            "631540-MLB54489739813_032023",
+            "610510-MLB54492201450_032023",
+            "924616-MLB54489767053_032023",
+            "638270-MLB54489784873_032023",
+            "715792-MLB54492211234_032023",
+            "652583-MLB54492201492_032023",
+            "775265-MLB54492159872_032023",
+            "903420-MLB54489784957_032023",
+            "803816-MLB54494933410_032023"
+          ],
+          "seller_custom_field": null,
+          "catalog_product_id": null,
+          "inventory_id": null,
+          "item_relations": []
+        },
+        {
+          "id": 177004392434,
+          "price": 44.17,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Cor",
+              "value_id": "52028",
+              "value_name": "Azul",
+              "value_struct": null,
+              "values": [{ "id": "52028", "name": "Azul", "struct": null }],
+              "value_type": "string"
+            }
+          ],
+          "available_quantity": 0,
+          "sold_quantity": 5,
+          "sale_terms": [],
+          "picture_ids": [
+            "776898-MLB54492201270_032023",
+            "637480-MLB54492137436_032023",
+            "885992-MLB54492159658_032023",
+            "794895-MLB54492150872_032023",
+            "770994-MLB54489802393_032023",
+            "693220-MLB54489784711_032023",
+            "679864-MLB54492201274_032023",
+            "910507-MLB54492103622_032023",
+            "633042-MLB54492664987_032023"
+          ],
+          "seller_custom_field": null,
+          "catalog_product_id": null,
+          "inventory_id": null,
+          "item_relations": []
+        },
+        {
+          "id": 177160181867,
+          "price": 44.17,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Cor",
+              "value_id": "2790177",
+              "value_name": "Rose",
+              "value_struct": null,
+              "values": [{ "id": "2790177", "name": "Rose", "struct": null }],
+              "value_type": "string"
+            }
+          ],
+          "available_quantity": 0,
+          "sold_quantity": 6,
+          "sale_terms": [],
+          "picture_ids": [
+            "992352-MLB54489786279_032023",
+            "785129-MLB54492131088_032023",
+            "614036-MLB54492137248_032023",
+            "840343-MLB54492081822_032023",
+            "798231-MLB54492139454_032023",
+            "828274-MLB54492166922_032023",
+            "810928-MLB54492157052_032023",
+            "718578-MLB54492194698_032023",
+            "715421-MLB54494909478_032023"
+          ],
+          "seller_custom_field": null,
+          "catalog_product_id": null,
+          "inventory_id": null,
+          "item_relations": []
+        },
+        {
+          "id": 177160181871,
+          "price": 44.17,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Cor",
+              "value_id": "52049",
+              "value_name": "Preto",
+              "value_struct": null,
+              "values": [{ "id": "52049", "name": "Preto", "struct": null }],
+              "value_type": "string"
+            }
+          ],
+          "available_quantity": 0,
+          "sold_quantity": 2,
+          "sale_terms": [],
+          "picture_ids": [
+            "966944-MLB54492256096_032023",
+            "614480-MLB54489767183_032023",
+            "894504-MLB54492137754_032023",
+            "762425-MLB54492256162_032023",
+            "654102-MLB54492177834_032023",
+            "845498-MLB54489767263_032023",
+            "843867-MLB54489802595_032023",
+            "830064-MLB54492157304_032023",
+            "621101-MLB54494879572_032023"
+          ],
+          "seller_custom_field": null,
+          "catalog_product_id": null,
+          "inventory_id": null,
+          "item_relations": []
+        },
+        {
+          "id": 177160181873,
+          "price": 44.17,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Cor",
+              "value_id": "976",
+              "value_name": "Prata",
+              "value_struct": null,
+              "values": [{ "id": "976", "name": "Prata", "struct": null }],
+              "value_type": "string"
+            }
+          ],
+          "available_quantity": 0,
+          "sold_quantity": 1,
+          "sale_terms": [],
+          "picture_ids": [
+            "672192-MLB54492211400_032023",
+            "633701-MLB54489846055_032023",
+            "992332-MLB54489767357_032023",
+            "719667-MLB54489767367_032023",
+            "689710-MLB54492211432_032023",
+            "651603-MLB54492167320_032023",
+            "992619-MLB54492201748_032023",
+            "612702-MLB54492103746_032023",
+            "716162-MLB54494937408_032023"
+          ],
+          "seller_custom_field": null,
+          "catalog_product_id": null,
+          "inventory_id": null,
+          "item_relations": []
+        }
+      ],
+      "status": "active",
+      "sub_status": [],
+      "tags": ["good_quality_thumbnail", "immediate_payment", "cart_eligible"],
+      "warranty": "Garantia do vendedor: 3 meses",
+      "catalog_product_id": null,
+      "domain_id": "MLB-MICROPHONES",
+      "seller_custom_field": null,
+      "parent_item_id": null,
+      "differential_pricing": null,
+      "deal_ids": [],
+      "automatic_relist": false,
+      "date_created": "2023-03-11T06:36:09.000Z",
+      "last_updated": "2023-03-31T23:48:12.000Z",
+      "health": 0.9,
+      "catalog_listing": false,
+      "item_relations": [],
+      "channels": ["marketplace", "mshops"]
+    }
+  },
+  {
+    "code": 200,
+    "body": {
+      "id": "MLB3285634128",
+      "site_id": "MLB",
+      "title": "Cabo Adaptador Tipo C Para Rj45 Rede Lan Gigabit 1000mbps",
+      "subtitle": null,
+      "seller_id": 215736591,
+      "category_id": "MLB5923",
+      "official_store_id": null,
+      "price": 40.46,
+      "base_price": 40.46,
+      "original_price": 62.25,
+      "inventory_id": null,
+      "currency_id": "BRL",
+      "initial_quantity": 10,
+      "available_quantity": 4,
+      "sold_quantity": 6,
+      "sale_terms": [
+        {
+          "id": "LOYALTY_LEVEL_6",
+          "name": "Preço por ser nível 6 do loyalty",
+          "value_id": null,
+          "value_name": "31.74 BRL",
+          "value_struct": { "number": 31.74, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "31.74 BRL",
+              "struct": { "number": 31.74, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_4",
+          "name": "Preço por ser nível 4 do loyalty",
+          "value_id": null,
+          "value_name": "31.74 BRL",
+          "value_struct": { "number": 31.74, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "31.74 BRL",
+              "struct": { "number": 31.74, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_3",
+          "name": "Preço por ser nível 3 do loyalty",
+          "value_id": null,
+          "value_name": "31.74 BRL",
+          "value_struct": { "number": 31.74, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "31.74 BRL",
+              "struct": { "number": 31.74, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "LOYALTY_LEVEL_5",
+          "name": "Preço por ser nível 5 do loyalty",
+          "value_id": null,
+          "value_name": "31.74 BRL",
+          "value_struct": { "number": 31.74, "unit": "BRL" },
+          "values": [
+            {
+              "id": null,
+              "name": "31.74 BRL",
+              "struct": { "number": 31.74, "unit": "BRL" }
+            }
+          ],
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_id": "2230280",
+          "value_name": "Garantia do vendedor",
+          "value_struct": null,
+          "values": [
+            { "id": "2230280", "name": "Garantia do vendedor", "struct": null }
+          ],
+          "value_type": "list"
+        },
+        {
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_id": null,
+          "value_name": "3 meses",
+          "value_struct": { "number": 3, "unit": "meses" },
+          "values": [
+            {
+              "id": null,
+              "name": "3 meses",
+              "struct": { "number": 3, "unit": "meses" }
+            }
+          ],
+          "value_type": "number_unit"
+        }
+      ],
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "start_time": "2023-03-11T01:58:46.000Z",
+      "stop_time": "2043-03-16T04:20:04.000Z",
+      "end_time": "2043-03-16T04:20:04.000Z",
+      "expiration_time": "2023-06-19T22:55:17.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-3285634128-cabo-adaptador-tipo-c-para-rj45-rede-lan-gigabit-1000mbps-_JM",
+      "thumbnail_id": "803231-MLB54295577570_032023",
+      "thumbnail": "http://http2.mlstatic.com/D_803231-MLB54295577570_032023-I.jpg",
+      "secure_thumbnail": "https://http2.mlstatic.com/D_803231-MLB54295577570_032023-I.jpg",
+      "pictures": [
+        {
+          "id": "803231-MLB54295577570_032023",
+          "url": "http://http2.mlstatic.com/D_803231-MLB54295577570_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_803231-MLB54295577570_032023-O.jpg",
+          "size": "495x500",
+          "max_size": "1189x1200",
+          "quality": ""
+        },
+        {
+          "id": "677858-MLB54295549998_032023",
+          "url": "http://http2.mlstatic.com/D_677858-MLB54295549998_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_677858-MLB54295549998_032023-O.jpg",
+          "size": "500x423",
+          "max_size": "1197x1014",
+          "quality": ""
+        },
+        {
+          "id": "604453-MLB54294669307_032023",
+          "url": "http://http2.mlstatic.com/D_604453-MLB54294669307_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_604453-MLB54294669307_032023-O.jpg",
+          "size": "500x474",
+          "max_size": "1200x1138",
+          "quality": ""
+        },
+        {
+          "id": "704987-MLB54295628374_032023",
+          "url": "http://http2.mlstatic.com/D_704987-MLB54295628374_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_704987-MLB54295628374_032023-O.jpg",
+          "size": "454x500",
+          "max_size": "1086x1196",
+          "quality": ""
+        },
+        {
+          "id": "920177-MLB54494957908_032023",
+          "url": "http://http2.mlstatic.com/D_920177-MLB54494957908_032023-O.jpg",
+          "secure_url": "https://http2.mlstatic.com/D_920177-MLB54494957908_032023-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        }
+      ],
+      "video_id": "KkBPN4HqkWI",
+      "descriptions": [],
+      "accepts_mercadopago": true,
+      "non_mercado_pago_payment_methods": [],
+      "shipping": {
+        "mode": "me2",
+        "methods": [],
+        "tags": ["self_service_in"],
+        "dimensions": null,
+        "local_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "drop_off",
+        "store_pick_up": false
+      },
+      "international_delivery_mode": "none",
+      "seller_address": {
+        "comment": "Referencia: SEEGAL COMERCIO DO BRASIL LTDA",
+        "address_line": "Rua Alberto Ferreira 262",
+        "zip_code": "32410056",
+        "city": { "id": "TUxCQ0lCSTdiNjY1", "name": "Ibirité" },
+        "state": { "id": "BR-MG", "name": "Minas Gerais" },
+        "country": { "id": "BR", "name": "Brasil" },
+        "search_location": {
+          "city": { "id": "TUxCQ0lCSTdiNjY1", "name": "Ibirité" },
+          "state": { "id": "TUxCUE1JTlMxNTAyZA", "name": "Minas Gerais" }
+        },
+        "latitude": -20.0338004,
+        "longitude": -44.0613676,
+        "id": 1282432672
+      },
+      "seller_contact": null,
+      "location": {},
+      "geolocation": { "latitude": -20.0338004, "longitude": -44.0613676 },
+      "coverage_areas": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca do cabo",
+          "value_id": null,
+          "value_name": "Nova Voo",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "Nova Voo", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "CABLE_LENGTH",
+          "name": "Comprimento do cabo",
+          "value_id": null,
+          "value_name": "15 cm",
+          "value_struct": { "number": 15, "unit": "cm" },
+          "values": [
+            {
+              "id": null,
+              "name": "15 cm",
+              "struct": { "number": 15, "unit": "cm" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "COMPATIBLE_PRODUCT_BRANDS",
+          "name": "Marcas de produtos compatíveis",
+          "value_id": null,
+          "value_name": "ACER,ASUS,Apple,DELL,HUAWEI,LENOVO,LG,MOTOROLA,Samsung,XIAOMI",
+          "value_struct": null,
+          "values": [
+            { "id": null, "name": "ACER", "struct": null },
+            { "id": null, "name": "ASUS", "struct": null },
+            { "id": "13636257", "name": "Apple", "struct": null },
+            { "id": null, "name": "DELL", "struct": null },
+            { "id": null, "name": "HUAWEI", "struct": null },
+            { "id": null, "name": "LENOVO", "struct": null },
+            { "id": null, "name": "LG", "struct": null },
+            { "id": null, "name": "MOTOROLA", "struct": null },
+            { "id": "13523517", "name": "Samsung", "struct": null },
+            { "id": null, "name": "XIAOMI", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "COMPATIBLE_PRODUCT_MODELS",
+          "name": "Modelos de produtos compatíveis",
+          "value_id": null,
+          "value_name": "A20s,A21s,A32,A50,A52,A71,A72,A80,A90,Aspire,MACBOOK,Moto e40,Moto edge,Moto g100,Moto g20,Moto g7,Moto g7 power,Moto g9 plus,Moto one,Moto one fusion,Moto one fusion plus,Moto one hyper,Notebook com tipo C,SANSUNG GALAXY",
+          "value_struct": null,
+          "values": [
+            { "id": null, "name": "A20s", "struct": null },
+            { "id": null, "name": "A21s", "struct": null },
+            { "id": null, "name": "A32", "struct": null },
+            { "id": null, "name": "A50", "struct": null },
+            { "id": null, "name": "A52", "struct": null },
+            { "id": null, "name": "A71", "struct": null },
+            { "id": null, "name": "A72", "struct": null },
+            { "id": null, "name": "A80", "struct": null },
+            { "id": null, "name": "A90", "struct": null },
+            { "id": null, "name": "Aspire", "struct": null },
+            { "id": null, "name": "MACBOOK", "struct": null },
+            { "id": null, "name": "Moto e40", "struct": null },
+            { "id": null, "name": "Moto edge", "struct": null },
+            { "id": null, "name": "Moto g100", "struct": null },
+            { "id": null, "name": "Moto g20", "struct": null },
+            { "id": null, "name": "Moto g7", "struct": null },
+            { "id": null, "name": "Moto g7 power", "struct": null },
+            { "id": null, "name": "Moto g9 plus", "struct": null },
+            { "id": null, "name": "Moto one", "struct": null },
+            { "id": null, "name": "Moto one fusion", "struct": null },
+            { "id": null, "name": "Moto one fusion plus", "struct": null },
+            { "id": null, "name": "Moto one hyper", "struct": null },
+            { "id": null, "name": "Notebook com tipo C", "struct": null },
+            { "id": null, "name": "SANSUNG GALAXY", "struct": null }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "DATA_CABLE_TYPE",
+          "name": "Tipo de cabo de dados",
+          "value_id": null,
+          "value_name": "Adaptador",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "Adaptador", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "INPUT_CONNECTOR",
+          "name": "Conector de entrada",
+          "value_id": "2230456",
+          "value_name": "USB Tipo C",
+          "value_struct": null,
+          "values": [{ "id": "2230456", "name": "USB Tipo C", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "value_struct": null,
+          "values": [{ "id": "2230284", "name": "Novo", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "list"
+        },
+        {
+          "id": "MAX_DATA_TRANSFER_SPEED",
+          "name": "Velocidade máxima de transferência de dados",
+          "value_id": "13878654",
+          "value_name": "1000 Mbps",
+          "value_struct": { "number": 1000, "unit": "Mbps" },
+          "values": [
+            {
+              "id": "13878654",
+              "name": "1000 Mbps",
+              "struct": { "number": 1000, "unit": "Mbps" }
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "number_unit"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo do cabo",
+          "value_id": null,
+          "value_name": "Tipo C X RJ45",
+          "value_struct": null,
+          "values": [{ "id": null, "name": "Tipo C X RJ45", "struct": null }],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        },
+        {
+          "id": "OUTPUT_CONNECTOR",
+          "name": "Conector de saída",
+          "value_id": null,
+          "value_name": "LAN Ethernet Gigabit 1000Mbps",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "LAN Ethernet Gigabit 1000Mbps",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_type": "string"
+        }
+      ],
+      "warnings": [],
+      "listing_source": "",
+      "variations": [
+        {
+          "id": 177002223896,
+          "price": 40.46,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Cor",
+              "value_id": "52049",
+              "value_name": "Preto",
+              "value_struct": null,
+              "values": [{ "id": "52049", "name": "Preto", "struct": null }],
+              "value_type": "string"
+            }
+          ],
+          "available_quantity": 4,
+          "sold_quantity": 6,
+          "sale_terms": [],
+          "picture_ids": [
+            "803231-MLB54295577570_032023",
+            "677858-MLB54295549998_032023",
+            "604453-MLB54294669307_032023",
+            "704987-MLB54295628374_032023",
+            "920177-MLB54494957908_032023"
+          ],
+          "seller_custom_field": null,
+          "catalog_product_id": null,
+          "inventory_id": null,
+          "item_relations": []
+        }
+      ],
+      "status": "active",
+      "sub_status": [],
+      "tags": ["immediate_payment", "cart_eligible"],
+      "warranty": "Garantia do vendedor: 3 meses",
+      "catalog_product_id": null,
+      "domain_id": "MLB-DATA_CABLES_AND_ADAPTERS",
+      "seller_custom_field": null,
+      "parent_item_id": null,
+      "differential_pricing": null,
+      "deal_ids": [],
+      "automatic_relist": false,
+      "date_created": "2023-03-11T01:58:46.000Z",
+      "last_updated": "2023-03-31T22:55:17.000Z",
+      "health": 0.87,
+      "catalog_listing": false,
+      "item_relations": [],
+      "channels": ["marketplace", "mshops"]
+    }
+  }
+]

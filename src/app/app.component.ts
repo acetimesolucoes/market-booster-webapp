@@ -8,7 +8,7 @@ import { BehaviorSubject } from 'rxjs';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'meli-booster-client-admin';
+  title = 'Meli Booster - Painel Administrativo';
 
   static isBrowser = new BehaviorSubject<boolean>(false);
 

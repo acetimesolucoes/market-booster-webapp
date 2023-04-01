@@ -17,14 +17,14 @@ export class AuthComponent {
     private router: Router,
   ) {
     this.aRoute.queryParams.subscribe((p: any) => {
-      if (p.code) {        
+      if (p.code) {
         this.getToken(p.code);
       }
     });
 
     this.verifyAuthentication();
   }
-  
+
   async doLoginMeli() {
 
     const meli_base_url = 'https://auth.mercadolivre.com.br';
@@ -36,22 +36,22 @@ export class AuthComponent {
 
   async getToken(code: string) {
     console.log('code => ', code);
-    
+
     localStorage.setItem('ml-code', code);
 
     this.service.getToken(code).subscribe(a => {
       console.log('a => ', a);
-      
+
       localStorage.setItem('ml-token', JSON.stringify(a));
 
-      console.log(localStorage.getItem('ml-token'));
+      // console.log(localStorage.getItem('ml-token'));
 
       this.router.navigate(['meli/orders']);
     });
   }
 
   verifyAuthentication() {
-    console.log(localStorage.getItem('ml-token'));
+    // console.log(localStorage.getItem('ml-token'));
 
     this.authenticated = localStorage.getItem('ml-token');
     if (this.authenticated) {
