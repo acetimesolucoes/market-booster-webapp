@@ -20,11 +20,10 @@
             </th>
             <th scope="col">Pedido</th>
             <th scope="col">Data</th>
-            <th scope="col">Produto</th>
+            <th scope="col">Produtos</th>
             <th scope="col">Cliente</th>
-            <th scope="col">Total</th>
-            <!-- <th scope="col">Pagamento</th> -->
-            <th scope="col">Status</th>
+            <th scope="col">Poha</th>
+            <th scope="col">Progresso</th>
           </tr>
         </thead>
         <tbody>
@@ -39,23 +38,44 @@
             </th>
             <td>#{{ order.id }}</td>
             <td>{{ order.date_created | date : "dd MMM. HH:mm:ss" }}hs</td>
-            <td>{{ order.payments[0].reason }}</td>
-            <td>{{ order.buyer.nickname }}</td>
-            <td>{{ order.paid_amount | currency : order.currency_id }}</td>
-            <!-- <td>
-              <span
-                [ngClass]="
-                  order.status == 'paid' ? 'bg-success' : 'text-bg-danger'
-                "
-                class="badge"
-                >{{ order.status }}</span
-              >
-            </td> -->
             <td>
-              <!-- <p>{{ getOrderShipments(order.id) }}</p> -->
-              <span *ngIf="order.fulfilled == true"> Entregue</span>
-              <span *ngIf="order.fulfilled == false"> Cancelada</span>
-              <span *ngIf="order.fulfilled == null"> A caminho</span>
+              <span *ngIf="order.order_items.length == 1">
+                {{ order.order_items[0].quantity }} x
+                {{ order.order_items[0].item.title }}
+              </span>
+            </td>
+            <td>{{ order.buyer.nickname }}</td>
+            <!-- <td>{{ order.paid_amount | currency : order.currency_id }}</td> -->
+            <td>{{ getStatus(order.tags) }}</td>
+            <td>
+              <div
+                class="progress"
+                role="progressbar"
+                aria-label="Success striped example"
+                aria-valuenow="25"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              >
+                <div
+                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  [ngClass]="
+                    order.fulfilled == true
+                      ? 'bg-success'
+                      : order.fulfilled == false
+                      ? 'bg-danger'
+                      : 'bg-warning'
+                  "
+                  [style.width]="
+                    order.fulfilled == true || order.fulfilled == false
+                      ? '100%'
+                      : '25%'
+                  "
+                >
+                  <!-- <span *ngIf="order.fulfilled == true"> Entregue</span>
+                  <span *ngIf="order.fulfilled == false"> Cancelada</span>
+                  <span *ngIf="order.fulfilled == null"> A caminho</span> -->
+                </div>
+              </div>
             </td>
           </tr>
         </tbody>

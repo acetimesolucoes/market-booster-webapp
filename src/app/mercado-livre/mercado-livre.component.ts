@@ -13,11 +13,11 @@ export class MercadoLivreComponent {
 
   verifyAuthentication() {
     try {
-      let mlDataLogged = JSON.parse(localStorage.getItem('ml-token') || '');
-      this.router.navigate(['meli/orders']);
-      
+      // let mlDataLogged = JSON.parse(localStorage.getItem('ml-token') || '');
+      // this.router.navigate(['meli/orders']);
+
     } catch (error) {
-      this.router.navigate(['meli/auth']);
+      // this.router.navigate(['meli/auth']);
     }
   }
 }

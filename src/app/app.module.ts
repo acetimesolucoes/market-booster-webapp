@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { CommonModule, JsonPipe } from '@angular/common';
-import { HttpClientModule } from '@angular/common/http';
+import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -11,6 +11,8 @@ import { DashBoosterComponent } from './layouts/dash-booster/dash-booster.compon
 import { NavbarComponent } from './layouts/dash-booster/components/navbar/navbar.component';
 import { OrdersComponent } from './mercado-livre/orders/orders.component';
 import { PublicationsComponent } from './mercado-livre/publications/publications.component';
+import { ErrorInterceptor } from './libs/interceptors/error.interceptor';
+import { MeliAuthInterceptor } from './libs/interceptors/meli-auth.interceptor';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,18 @@ import { PublicationsComponent } from './mercado-livre/publications/publications
     NgbModule,
     HttpClientModule,
   ],
-  providers: [],
+  providers: [
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: ErrorInterceptor,
+      multi: true
+    },
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: MeliAuthInterceptor,
+      multi: true
+    }
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

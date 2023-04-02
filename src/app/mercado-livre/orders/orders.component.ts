@@ -19,7 +19,7 @@ export class OrdersComponent {
 
   async getOrdersBySellerId() {
     let sellerId = await this.getSellerId();
-    let path_params = ['sort=date_desc', 'startPeriod=WITH_DATE_CLOSED_6M_OLD'];
+    let path_params = ['sort=date_desc', 'limit=51', 'offset=0'];
     this.service.getOrdersBySellerId(sellerId, path_params).subscribe((data: any) => {
       this.orders = data.results;
     });
@@ -43,6 +43,18 @@ export class OrdersComponent {
     this.userService.getUserInfoById(userId).subscribe((data: any) => {
       console.log(data);
     });
+  }
+
+  getStatus(tags: string[]) {
+    if (tags.includes('paid') && tags.includes('not_delivered') && !tags.includes('pack_order')) {
+      // return 'A caminho';
+    }
+
+    if (tags.includes("pack_order") && tags.includes("paid") && tags.includes("not_delivered")) {
+      return 'Em trânsito';
+    }
+
+    return '-';
   }
 
 }

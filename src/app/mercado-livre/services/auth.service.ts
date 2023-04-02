@@ -11,7 +11,7 @@ export class AuthService {
   constructor(private http: HttpClient) { }
 
   getToken(code: string): Observable<any> {
-    
+
     let body = {
       grant_type: 'authorization_code',
       client_id: '5071988398712992',
@@ -20,15 +20,19 @@ export class AuthService {
       redirect_uri: 'http://localhost:4200/meli/auth',
       // code_verifier: '$CODE_VERIFIER'
     };
-    
+
     let headers = {
       'accept': 'application/json',
-      'content-type': 'application/x-www-form-urlencoded', 
+      'content-type': 'application/x-www-form-urlencoded',
     };
 
     let url = 'https://api.mercadolibre.com/oauth/token';
 
     return this.http.post<any>(url, body, { headers }).pipe(catchError(this.handleError(body)));
+  }
+
+  refreshToken() {
+
   }
 
   handleError(body: any) {

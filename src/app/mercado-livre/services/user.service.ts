@@ -16,9 +16,8 @@ export class UserService {
   getUserInfoById(userId: string): Observable<any> {
     let path = `/users/${userId}`;
     let ml_base_url = 'http://localhost:4200/api';
-    let access_token = JSON.parse(localStorage.getItem('ml-token') || '').access_token;
 
-    return this.http.get<any>(`${ml_base_url}${path}`, { headers: { 'Authorization': `Bearer ${access_token}` } });
+    return this.http.get<any>(`${ml_base_url}${path}`);
   }
 
 }

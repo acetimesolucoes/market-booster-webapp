@@ -13,23 +13,19 @@ export class OrdersService {
     let path = `/orders/search?seller=${id}`;
     // let ml_base_url = 'https://api.mercadolibre.com';
     let ml_base_url = 'http://localhost:4200/api';
-    let access_token = JSON.parse(localStorage.getItem('ml-token') || '').access_token;
 
     path_params.forEach(param => {
       path += `&${param}`;
     });
 
-    return this.http.get<any[]>(`${ml_base_url}${path}`, { headers: { 'Authorization': `Bearer ${access_token}` } });
+    return this.http.get<any[]>(`${ml_base_url}${path}`);
   }
 
   getOrderShipments(orderId: string) {
     let path = `/orders/${orderId}/shipments`;
     // let ml_base_url = 'https://api.mercadolibre.com';
     let ml_base_url = 'http://localhost:4200/api';
-    let access_token = JSON.parse(localStorage.getItem('ml-token') || '').access_token;
 
-    return this.http.get<any[]>(`${ml_base_url}${path}`, { headers: { 'Authorization': `Bearer ${access_token}` } });
-
-
+    return this.http.get<any[]>(`${ml_base_url}${path}`);
   }
 }
